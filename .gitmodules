@@ -6,4 +6,4 @@
 	url = https://github.com/bmsrangel/nlw1_mobile.git
 [submodule "mobile"]
 	path = mobile
-	url = ./mobile
+	url = https://github.com/bmsrangel/nlw1_mobile
