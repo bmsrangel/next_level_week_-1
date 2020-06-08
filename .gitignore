@@ -1,5 +1,4 @@
 **/node_modules
 server/uploads/*
+server/src/database/*.sqlite
 !server/uploads/*.svg
-
-*.sqlite
